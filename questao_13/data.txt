@@ -1,0 +1,2 @@
+13. Implemente uma função que leia o conteúdo de um arquivo texto e exiba no console 
+(use fs.promises).
